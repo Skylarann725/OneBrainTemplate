@@ -442,6 +442,7 @@ button:focus {
   color: #fff;
   overflow: hidden;
   position: relative;
+  width: 100%;
 }
 
 #hero-area .overlay {
@@ -650,6 +651,9 @@ button:focus {
     width: 20%;
     padding: 5px;
     margin-top: -5%;
+  }
+  #hero-area {
+    height: 300px;
   }
 }
 
