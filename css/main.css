@@ -703,12 +703,11 @@ button:focus {
     }
     #hero-area {
         height: 250px;
-        /*width: 415px;*/
         background-size: cover;
         color: #fff;
         overflow: hidden;
         position: relative;
-        width: 100%;
+       width: 100% !important;
     }
 }
 
