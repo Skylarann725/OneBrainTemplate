@@ -711,6 +711,7 @@ button:focus {
   color: #fff;
   overflow: hidden;
   position: relative;
+  width: 100%;
 }
 
 #features .section-title {
