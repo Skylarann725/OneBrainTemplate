@@ -657,7 +657,12 @@ button:focus {
 
 #hero-area {
   background-attachment: scroll;
+  height: 100%;
   }
+
+#features {
+  background-attachment: scroll;
+}
 
 @media screen and (max-width: 768px) {
     .navbar-header {
@@ -775,7 +780,7 @@ button:focus {
     color: #fff;
     overflow: hidden;
     position: relative;
-    width: 100%;
+    width: 100% !important;
 }
 
 #features .section-title {
