@@ -707,7 +707,7 @@ button:focus {
         color: #fff;
         overflow: hidden;
         position: relative;
-       width: 100% !important;
+        width: 100% !important;
     }
 }
 
