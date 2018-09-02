@@ -655,6 +655,10 @@ button:focus {
     display: none;
 }
 
+#hero-area {
+  background-attachment: scroll;
+  }
+
 @media screen and (max-width: 768px) {
     .navbar-header {
         width: 100%;
