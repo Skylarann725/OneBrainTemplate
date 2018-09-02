@@ -602,6 +602,7 @@ button:focus {
 
 .mobile-menu {
   display: none;
+  visibility: hidden;
 }
 
 .slicknav_menu {
@@ -620,8 +621,9 @@ button:focus {
   .navbar-brand img {
     width: 70%;
   }
-  #mobile-menu {
+  .mobile-menu {
     display: none;
+    visibility: hidden;
   }
   .slicknav_menu {
     display: block;
@@ -653,7 +655,8 @@ button:focus {
     margin-top: -5%;
   }
   #hero-area {
-    height: 300px;
+    height: 250px;
+    width: 100%;
   }
 }
 
