@@ -679,7 +679,7 @@ button:focus {
 }
 
 #features {
-    background-attachment: scroll;
+    background-attachment: scroll !important;
     height: 100%;
 }
 
@@ -754,6 +754,7 @@ button:focus {
     .section-subtitle {
       text-align: center;
     }
+
 }
 
 
