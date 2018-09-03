@@ -739,12 +739,8 @@ button:focus {
     }
 
     #features {
-        background-size: cover;
-        color: #fff;
-        overflow: hidden;
-        position: relative;
-        width: 100% !important;
-        background-position: 0px 0px !important;
+        /*background: url(../img/blurrylobby2.jpg) fixed no-repeat;*/
+        /*background-position: 0px 0px !important;*/
     }
 
     .section {
@@ -816,7 +812,7 @@ button:focus {
    ========================================================================== */
 
 #features {
-    background: url(../img/second.jpg) fixed no-repeat;
+    background: url(../img/blurrylobby.jpg) fixed no-repeat;
     background-size: cover;
     color: #fff;
     overflow: hidden;
